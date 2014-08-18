@@ -1,0 +1,4 @@
+#time mpirun -n 4 ./parallel_trees --master 1 --iterations 10 --waiting 1 --output out.txt --seed -1
+make -f MakefileRecursive
+time mpirun -n 3 ./parallel_trees_talking_slaves --master 1 --iterations 100000 --waiting 1000000 --output out.txt --seed -1
+#time  ./serial --master 0 --iterations 100000 --waiting 200000 --output out.txt --seed 0

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/parallel_mcmc/!svn/ver/98/Cpp_Code/data_sets
+END
+seedms
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/parallel_mcmc/!svn/ver/98/Cpp_Code/data_sets/seedms
+END
+sim.sh
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/parallel_mcmc/!svn/ver/98/Cpp_Code/data_sets/sim.sh
+END
+sim_7_seq_theta_2.dat
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/parallel_mcmc/!svn/ver/84/Cpp_Code/data_sets/sim_7_seq_theta_2.dat
+END
+sim_100_seq_theta_1.dat
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/parallel_mcmc/!svn/ver/84/Cpp_Code/data_sets/sim_100_seq_theta_1.dat
+END
+sim_10_seq_theta_1.dat
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/parallel_mcmc/!svn/ver/84/Cpp_Code/data_sets/sim_10_seq_theta_1.dat
+END

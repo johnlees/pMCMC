@@ -1,0 +1,7 @@
+Proc=1 depth=1
+Proc=2 depth=1.8
+Proc=4 depth=3.149836609024
+Proc=8 depth=5.44100429036704
+Proc=16 depth=9.44307326401446
+Proc=32 depth=16.6367869028279
+Proc=64 depth=29.9135520730683

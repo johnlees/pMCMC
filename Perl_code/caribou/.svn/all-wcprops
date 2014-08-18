@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/parallel_mcmc/!svn/ver/90/Perl_code/caribou
+END
+accepts.txt
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/parallel_mcmc/!svn/ver/71/Perl_code/caribou/accepts.txt
+END
+processors.txt
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/parallel_mcmc/!svn/ver/71/Perl_code/caribou/processors.txt
+END
+data_extract_caribou.pl
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/parallel_mcmc/!svn/ver/90/Perl_code/caribou/data_extract_caribou.pl
+END
+efficiencies.txt
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/parallel_mcmc/!svn/ver/73/Perl_code/caribou/efficiencies.txt
+END
+submission_script_caribou.pl
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/parallel_mcmc/!svn/ver/71/Perl_code/caribou/submission_script_caribou.pl
+END
